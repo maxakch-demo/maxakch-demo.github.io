@@ -1,0 +1,68 @@
+# ООО фирма «Рассвет-К» (Rassvet-K)
+
+> Российский производитель (Курск, с 1995 г.) гибких резинотканевых напорных, напорно-всасывающих, плавучих и плоскосворачиваемых трубопроводов, резиновых компенсаторов, отводов, тройников, переходов, пульподелителей и эластичных водоналивных дамб для гидромеханизации, земснарядов и горно-обогатительных комбинатов.
+
+Основной язык сайта — русский; есть английская версия (раздел English ниже). Цены указаны в рублях с НДС по прайс-листу на 01.03.2025. Продукция изготавливается в том числе по чертежам заказчика; для заказа и уточнения цены — телефон +7 (4712) 73-47-73 или e-mail rassvet-k@yandex.ru. Формы заявки на сайте нет.
+
+Полная текстовая версия сайта: [llms-full.txt](https://rassvet-k.ru/llms-full.txt) (RU), [en/llms-full.txt](https://rassvet-k.ru/en/llms-full.txt) (EN).
+
+## Продукция
+
+- [Трубопровод напорный фланцевый](https://rassvet-k.ru/production/23.html): Резинотканевые напорные трубы с вращающимися или неподвижными фланцами, секции до 10 м.
+- [Трубопровод напорный фланцевый плавающий](https://rassvet-k.ru/production/22.html): Плавучий пульпопровод с поплавками для земснарядов, работает при отрицательных температурах.
+- [Трубопровод напорно-всасывающий фланцевый](https://rassvet-k.ru/production/25.html): Всасывающие и напорно-всасывающие резинотканевые трубы для гидросмесей.
+- [Плоскосворачиваемый трубопровод](https://rassvet-k.ru/production/26.html): Лёгкий гибкий пульпопровод, сворачивается на барабан для транспортировки.
+- [Резиновые компенсаторы трубопроводов](https://rassvet-k.ru/production/18.html): Эластичные фланцевые компенсаторы для гашения вибраций и перемещений.
+- [Резинотканевые отводы фланцевые](https://rassvet-k.ru/production/12.html): Износостойкие отводы 90° и других углов для абразивных гидросмесей.
+- [Резинотканевые переходы фланцевые](https://rassvet-k.ru/production/15.html): Конусные эластичные переходники между трубопроводами разных диаметров.
+- [Резинотканевые тройники](https://rassvet-k.ru/production/14.html): Тройники и Y-образные соединения из износостойкой резины.
+- [Пульподелители и распределители потока](https://rassvet-k.ru/production/19.html): Абразивоустойчивые распределители потока гидросмеси.
+- [Эластичные оболочки (водоналивные дамбы)](https://rassvet-k.ru/production/6.html): Быстровозводимые гибкие дамбы для защиты от паводков и ЧС.
+- [Каталог продукции](https://rassvet-k.ru/production/): все группы — гибкие резинотканевые трубопроводы; абразивостойкие фасонные части трубопроводов; защитные гидротехнические сооружения
+
+## Цены
+
+- [Прайс-лист](https://rassvet-k.ru/prices/): цены по внутреннему диаметру для 6 групп изделий (Трубопровод напорный фланцевый эластичный, Трубопровод напорный фланцевый плавающий, Трубопровод напорно-всасывающий фланцевый, Эластичные компенсаторы, Эластичные отводы 90 град. фланцевые, Плоскосворачиваемые легкие трубопроводы), руб. с НДС, на 01.03.2025
+
+## Статьи (технические материалы)
+
+- [Перспективы применения полимерных материалов в гидромеханизации](https://rassvet-k.ru/articles/4.html): Использование резинотканевых трубопроводов, тройников и преходов в гидромеханизации стало трендом номер один в 21 веке.
+- [Быстровозводимые водоналивные дамбы](https://rassvet-k.ru/articles/5.html): Вода всегда являлась для человека источником опасности.
+- [Эластичные грунтоводы](https://rassvet-k.ru/articles/6.html): Эластичные плавучие грунтопроводы предназначены для гидротранспортирования грунта при проведении дноуглубительных работ, подводной разработке траншей, гидронамыве промышленных площадок и т.д.
+- [Эластичные отводы](https://rassvet-k.ru/articles/8.html): Производство эластичных резинотканевых отводов разных диамтеров.
+- [Компенсаторы](https://rassvet-k.ru/articles/7.html): Гибкие соединения трубопроводов - компенсаторы изготавливаются диаметром до 900 мм и длиной до 1000 мм.
+- [Гибкие длинномерные плоскосворачиваемые трубопроводы](https://rassvet-k.ru/articles/3.html): Производство гибких длинномерных плоскосворачиваемых трубопроводов.
+- [Трубопроводы напорно-всасывающие](https://rassvet-k.ru/articles/2.html): Мы занимаемся выпуском эластичных аброзивоустойчивых трубопроводов более 10 лет.
+- [Эластичные трубопроводы ТНФ и ТНФП](https://rassvet-k.ru/articles/1.html): Устройство абразивоустойчивого трубопровода достаточно сложно и описывается не только его составными элементами, но и их взаимным расположением.
+
+## Компания
+
+- [Главная](https://rassvet-k.ru/): о компании, направления работы
+- [Патенты и дипломы](https://rassvet-k.ru/certificates/): патенты на изобретения и дипломы предприятия
+- [Новости](https://rassvet-k.ru/news/): отгрузки и проекты (8 сообщений)
+- [Контакты](https://rassvet-k.ru/contacts/): 305004, г. Курск, ул. Народная, 7а; тел. +7 (4712) 73-47-73, +7 (4712) 73-47-72, +7 (4712) 73-47-71, +7 (910) 740-69-64; rassvet-k@yandex.ru
+
+## English
+
+- [Home](https://rassvet-k.ru/en.html): Rassvet-K LLC, manufacturer of flexible rubber hoses and fittings for dredging and mining
+- [Flanged discharge rubber hose](https://rassvet-k.ru/en/production/23.html): Rubber-fabric discharge hoses with rotating or fixed flanges, sections up to 10 m.
+- [Floating discharge rubber hose](https://rassvet-k.ru/en/production/22.html): Floating slurry pipeline with floats for dredgers, suitable for sub-zero temperatures.
+- [Suction-discharge rubber hose](https://rassvet-k.ru/en/production/25.html): Suction and suction-discharge rubber-fabric hoses for slurries.
+- [Lay-flat hose](https://rassvet-k.ru/en/production/26.html): Lightweight flexible pipeline that rolls up on a drum for transport.
+- [Rubber expansion joints](https://rassvet-k.ru/en/production/18.html): Flanged elastic expansion joints that absorb vibration and movement.
+- [Rubber flanged bends](https://rassvet-k.ru/en/production/12.html): Wear-resistant 90° and custom-angle bends for abrasive slurries.
+- [Rubber flanged reducers](https://rassvet-k.ru/en/production/15.html): Elastic cone reducers between pipelines of different diameters.
+- [Rubber tees (T & Y)](https://rassvet-k.ru/en/production/14.html): T- and Y-connectors made of wear-resistant rubber.
+- [Flow distributors and slurry dividers](https://rassvet-k.ru/en/production/19.html): Abrasion-resistant slurry flow distributors.
+- [Water-filled flexible dams](https://rassvet-k.ru/en/production/6.html): Rapidly deployable flexible dams for flood protection.
+- [Tracks for snowmobiles](https://rassvet-k.ru/en/production/7.html): Rubber tracks for snowmobiles.
+- [Tracks for Buran snowmobiles](https://rassvet-k.ru/en/production/39.html): Reliable tracks for Buran snowmobiles.
+- [Price list](https://rassvet-k.ru/en/prices/): same prices as the Russian site, RUB incl. VAT, as of 01.03.2025
+- [Articles](https://rassvet-k.ru/en/articles/): technical articles (English translations)
+- [Contacts](https://rassvet-k.ru/en/contacts/): 7a Narodnaya St., Kursk 305004, Russia; +7 (4712) 73-47-73; rassvet-k@yandex.ru
+- [Full text (EN)](https://rassvet-k.ru/en/llms-full.txt)
+
+## Optional
+
+- [Новости (список)](https://rassvet-k.ru/news/)
+- [Карта сайта (XML)](https://rassvet-k.ru/sitemap.xml)
