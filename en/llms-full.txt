@@ -27,14 +27,14 @@ Group: Flexible rubber-fabric hoses
 
 **Key facts:**
 
-- Inner diameter: 89 to 1200 mm
+- DN (inner diameter): 89 to 1200 mm
 - Section length: up to 10 m
 - Working pressure: 1.0 MPa; up to 4 MPa on request
 - Operating temperature: −35 to +70 °C
 - Material: wear-resistant rubber, high-strength synthetic fabric layers
 - Connection: flanged
 - Service life: 5 to 8 times longer abrasive-wear life than steel pipes
-- Price: from ₽41,700.00 incl. VAT (price list as of 01.03.2025; see Price list, group TNF)
+- Price: from 41,700 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNF)
 
 Discharge Rubber Hose (TFP) are made of wear-resistant rubber and high-strength fabric layers of force, can be manufactured up to 10 meters long with flanged connections. The production of rubber pipes of different lengths makes it easy to use them in existing piping systems with minimal installation costs. The rubber pipeline consists of several sections of rubber-fabric (rubber) pipes and does not require specially trained personnel and a special tool. The operation of rubber pipelines in the open air or in a humid environment does not require additional measures to protect them from corrosion. Rubber pipes consist of an internal protective coating - rubbers, resistant to hydroabrasive wear, and strength layers of high-strength synthetic fabrics and protective coating, so these pipes are more correctly called **rubber-fabric.**
 
@@ -80,7 +80,7 @@ Group: Flexible rubber-fabric hoses
 
 **Key facts:**
 
-- Diameters in price list: 89 to 630 mm
+- DN in price list: 89 to 630 mm
 - Section length: up to 10 m
 - Working pressure: up to 2.0 MPa
 - Operating temperature: −25 to +50 °C
@@ -89,7 +89,7 @@ Group: Flexible rubber-fabric hoses
 - Design: rubber-fabric pipe with floats, rotating or fixed flanges
 - Warranty: 3 years storage and operation, including 2 years of operation
 - Service life: 5 to 8 times longer abrasive-wear life than steel pipes
-- Price: from ₽62,350.00 incl. VAT (price list as of 01.03.2025; see Price list, group TNFP)
+- Price: from 62,350 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNFP)
 
 #### Floating pipeline - brief description
 
@@ -126,13 +126,13 @@ Group: Flexible rubber-fabric hoses
 
 **Key facts:**
 
-- Inner diameter: 102 to 1200 mm
+- DN (inner diameter): 102 to 1200 mm
 - Pipe length: up to 7300 mm (depends on diameter, see table)
 - Working pressure: 1.0 MPa
 - Vacuum: up to 0.08 MPa
 - Operating temperature: −35 to +50 °C
 - Design: wire spiral in all hoses, spacer rings from Ø 200 mm
-- Price: from ₽35,600.00 incl. VAT (price list as of 01.03.2025; see Price list, group TNVF)
+- Price: from 35,600 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNVF)
 
 #### Suction rubber hose
 
@@ -175,11 +175,11 @@ Group: Flexible rubber-fabric hoses
 
 **Key facts:**
 
-- Inner diameter: 150 to 1200 mm
+- DN (inner diameter): 150 to 1200 mm
 - Weight: from 4.5 kg per metre (Ø 450 mm, working pressure 0.4 MPa)
 - Transport: wound on a drum, by any transport including aviation
 - Application: operational slurry line for shore dumps, temporary water conduits, earth dams
-- Price: from ₽28,650.00 incl. VAT (price list as of 01.03.2025; see Price list, group TPF)
+- Price: from 28,650 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TPF)
 
 Flexible long-dimensioned flat-drained pipeline (pulp conduit) is manufactured from 150 to 1200 mm in diameter. It is characterized by a low mass (one meter of a flat-rolled slurry pipeline with a diameter of 450 mm designed for a working pressure of 0.4 mPa can weigh from 4.5 kg). Small mass and flatness of the slurry pipeline makes it possible to transport them, wound on a drum, by any means of transport, including aviation. Ploskorvorachivaemy pipeline is recommended to be used as an operational slurry line for hydroscheme on shore dumps, for construction of temporary water conduits and earth dams by means of hydromechanization, as primary depositions of cards for deposition. (f.1, f.2).
 
@@ -190,7 +190,7 @@ Group: Abrasion-resistant pipeline fittings
 
 **Key facts:**
 
-- Inner diameter: 150 to 1200 mm
+- DN (inner diameter): 150 to 1200 mm
 - Flexible insert length: up to 1000 mm
 - Axial strain: 30 to 150 mm (see table)
 - Working pressure: 1 MPa
@@ -198,7 +198,7 @@ Group: Abrasion-resistant pipeline fittings
 - Operating temperature: −35 to +70 °C
 - Flanges: to GOST 12819-80, 12820-80, 12822-80 or as agreed with the customer
 - Material: wear-resistant rubber and high-strength fabric layers
-- Price: from ₽21,450.00 incl. VAT (price list as of 01.03.2025; see Price list, group KOE)
+- Price: from 21,450 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group KOE)
 
 #### Rubber expansion joint
 
@@ -240,12 +240,12 @@ Group: Abrasion-resistant pipeline fittings
 
 **Key facts:**
 
-- Inner diameter: 102 to 630 mm
+- DN (inner diameter): 102 to 630 mm
 - Bend angle: 90°, 60°, 45°; other angles on request
 - Working pressure: 1 MPa
 - Operating temperature: −35 to +50 °C
 - Design: local reinforcement in wear zones; steel spacer rings for vacuum service
-- Price: from ₽18,050.00 incl. VAT (price list as of 01.03.2025; see Price list, group OTV)
+- Price: from 18,050 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group OTV)
 
 #### Pre-shaped rubber bends
 
@@ -402,193 +402,193 @@ We produce reliable caterpillars for Buran snowmobiles.
 
 ## Price list
 
-Prices as of 01.03.2025. Prices are in Russian rubles, VAT included. URL: https://rassvet-k.ru/en/prices/
+Prices as of 01.03.2025. Prices are in Russian rubles, VAT included. DN — inner diameter, mm. URL: https://rassvet-k.ru/en/prices/
 
 ### Flanged elastic discharge hose (TNF)
 
 TNF (onshore), P = 10.0 kgf/cm², price per section
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 89 | ₽41,700.00 |
-| 102 | ₽46,550.00 |
-| 108 | ₽48,450.00 |
-| 114 | ₽50,350.00 |
-| 125 | ₽53,850.00 |
-| 133 | ₽56,400.00 |
-| 152 | ₽62,450.00 |
-| 159 | ₽64,700.00 |
-| 200 | ₽80,400.00 |
-| 219 | ₽88,600.00 |
-| 250 | ₽100,600.00 |
-| 273 | ₽108,100.00 |
-| 300 | ₽117,250.00 |
-| 325 | ₽147,700.00 |
-| 350 | ₽175,450.00 |
-| 377 | ₽187,070.00 |
-| 402 | ₽221,850.00 |
-| 426 | ₽2,323,500.00 |
-| 450 | ₽250,200.00 |
-| 500 | ₽344,550.00 |
-| 530 | ₽361,400.00 |
-| 610 | ₽486,350.00 |
-| 630 | ₽499,860.00 |
+| DN 89 | 41,700 ₽ |
+| DN 102 | 46,550 ₽ |
+| DN 108 | 48,450 ₽ |
+| DN 114 | 50,350 ₽ |
+| DN 125 | 53,850 ₽ |
+| DN 133 | 56,400 ₽ |
+| DN 152 | 62,450 ₽ |
+| DN 159 | 64,700 ₽ |
+| DN 200 | 80,400 ₽ |
+| DN 219 | 88,600 ₽ |
+| DN 250 | 100,600 ₽ |
+| DN 273 | 108,100 ₽ |
+| DN 300 | 117,250 ₽ |
+| DN 325 | 147,700 ₽ |
+| DN 350 | 175,450 ₽ |
+| DN 377 | 187,070 ₽ |
+| DN 402 | 221,850 ₽ |
+| DN 426 | 2,323,500 ₽ |
+| DN 450 | 250,200 ₽ |
+| DN 500 | 344,550 ₽ |
+| DN 530 | 361,400 ₽ |
+| DN 610 | 486,350 ₽ |
+| DN 630 | 499,860 ₽ |
 
 ### Flanged floating discharge hose (TNFP)
 
 TNFP (floating), P = 10.0 kgf/cm², price per section
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 89 | ₽62,350.00 |
-| 102 | ₽67,200.00 |
-| 108 | ₽75,750.00 |
-| 114 | ₽77,650.00 |
-| 125 | ₽81,150.00 |
-| 133 | ₽83,700.00 |
-| 152 | ₽89,750.00 |
-| 159 | ₽91,990.00 |
-| 200 | ₽126,700.00 |
-| 219 | ₽134,870.00 |
-| 250 | ₽164,850.00 |
-| 273 | ₽172,350.00 |
-| 300 | ₽207,500.00 |
-| 325 | ₽237,950.00 |
-| 350 | ₽300,110.00 |
-| 377 | ₽311,750.00 |
-| 402 | ₽363,850.00 |
-| 426 | ₽374,350.00 |
-| 450 | ₽415,250.00 |
-| 500 | ₽531,800.00 |
-| 530 | ₽548,650.00 |
-| 610 | ₽841,350.00 |
-| 630 | ₽854,900.00 |
+| DN 89 | 62,350 ₽ |
+| DN 102 | 67,200 ₽ |
+| DN 108 | 75,750 ₽ |
+| DN 114 | 77,650 ₽ |
+| DN 125 | 81,150 ₽ |
+| DN 133 | 83,700 ₽ |
+| DN 152 | 89,750 ₽ |
+| DN 159 | 91,990 ₽ |
+| DN 200 | 126,700 ₽ |
+| DN 219 | 134,870 ₽ |
+| DN 250 | 164,850 ₽ |
+| DN 273 | 172,350 ₽ |
+| DN 300 | 207,500 ₽ |
+| DN 325 | 237,950 ₽ |
+| DN 350 | 300,110 ₽ |
+| DN 377 | 311,750 ₽ |
+| DN 402 | 363,850 ₽ |
+| DN 426 | 374,350 ₽ |
+| DN 450 | 415,250 ₽ |
+| DN 500 | 531,800 ₽ |
+| DN 530 | 548,650 ₽ |
+| DN 610 | 841,350 ₽ |
+| DN 630 | 854,900 ₽ |
 
 ### Flanged suction-discharge hose (TNVF)
 
 TNVF suction-discharge, P = 0.6 kgf/cm², L = 3.0 m*, price per piece, from
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 89 | ₽35,600.00 |
-| 102 | ₽38,050.00 |
-| 108 | ₽39,200.00 |
-| 114 | ₽40,350.00 |
-| 125 | ₽42,460.00 |
-| 133 | ₽44,000.00 |
-| 152 | ₽47,700.00 |
-| 159 | ₽49,050.00 |
-| 200 | ₽65,500.00 |
-| 219 | ₽73,550.00 |
-| 250 | ₽81,800.00 |
-| 273 | ₽86,350.00 |
-| 300 | ₽93,750.00 |
-| 325 | ₽98,800.00 |
-| 350 | ₽109,500.00 |
-| 377 | ₽115,050.00 |
-| 402 | ₽129,350.00 |
-| 426 | ₽134,450.00 |
-| 450 | ₽143,400.00 |
-| 500 | ₽252,400.00 |
-| 530 | ₽263,650.00 |
-| 610 | ₽368,800.00 |
-| 630 | ₽377,650.00 |
-| 720 | ₽496,150.00 |
-| 810 | ₽583,500.00 |
+| DN 89 | 35,600 ₽ |
+| DN 102 | 38,050 ₽ |
+| DN 108 | 39,200 ₽ |
+| DN 114 | 40,350 ₽ |
+| DN 125 | 42,460 ₽ |
+| DN 133 | 44,000 ₽ |
+| DN 152 | 47,700 ₽ |
+| DN 159 | 49,050 ₽ |
+| DN 200 | 65,500 ₽ |
+| DN 219 | 73,550 ₽ |
+| DN 250 | 81,800 ₽ |
+| DN 273 | 86,350 ₽ |
+| DN 300 | 93,750 ₽ |
+| DN 325 | 98,800 ₽ |
+| DN 350 | 109,500 ₽ |
+| DN 377 | 115,050 ₽ |
+| DN 402 | 129,350 ₽ |
+| DN 426 | 134,450 ₽ |
+| DN 450 | 143,400 ₽ |
+| DN 500 | 252,400 ₽ |
+| DN 530 | 263,650 ₽ |
+| DN 610 | 368,800 ₽ |
+| DN 630 | 377,650 ₽ |
+| DN 720 | 496,150 ₽ |
+| DN 810 | 583,500 ₽ |
 
 ### Elastic expansion joints (KOE)
 
 KOE flanged elastic expansion joint, P = 10.0 kgf/cm², L = 0.5 m*, price per piece
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 89 | ₽21,450.00 |
-| 102 | ₽23,350.00 |
-| 108 | ₽23,600.00 |
-| 114 | ₽23,900.00 |
-| 125 | ₽24,350.00 |
-| 133 | ₽24,700.00 |
-| 152 | ₽26,400.00 |
-| 159 | ₽26,700.00 |
-| 200 | ₽34,450.00 |
-| 219 | ₽40,150.00 |
-| 250 | ₽46,350.00 |
-| 273 | ₽47,610.00 |
-| 300 | ₽49,850.00 |
-| 325 | ₽53,550.00 |
-| 350 | ₽62,800.00 |
-| 377 | ₽64,750.00 |
-| 402 | ₽75,000.00 |
-| 426 | ₽76,810.00 |
-| 450 | ₽89,250.00 |
-| 500 | ₽106,800.00 |
-| 530 | ₽109,500.00 |
-| 610 | ₽148,950.00 |
-| 630 | ₽151,550.00 |
-| 720 | ₽212,400.00 |
-| 810 | ₽270,850.00 |
+| DN 89 | 21,450 ₽ |
+| DN 102 | 23,350 ₽ |
+| DN 108 | 23,600 ₽ |
+| DN 114 | 23,900 ₽ |
+| DN 125 | 24,350 ₽ |
+| DN 133 | 24,700 ₽ |
+| DN 152 | 26,400 ₽ |
+| DN 159 | 26,700 ₽ |
+| DN 200 | 34,450 ₽ |
+| DN 219 | 40,150 ₽ |
+| DN 250 | 46,350 ₽ |
+| DN 273 | 47,610 ₽ |
+| DN 300 | 49,850 ₽ |
+| DN 325 | 53,550 ₽ |
+| DN 350 | 62,800 ₽ |
+| DN 377 | 64,750 ₽ |
+| DN 402 | 75,000 ₽ |
+| DN 426 | 76,810 ₽ |
+| DN 450 | 89,250 ₽ |
+| DN 500 | 106,800 ₽ |
+| DN 530 | 109,500 ₽ |
+| DN 610 | 148,950 ₽ |
+| DN 630 | 151,550 ₽ |
+| DN 720 | 212,400 ₽ |
+| DN 810 | 270,850 ₽ |
 
 ### Elastic 90° flanged bends (OTV)
 
 Flanged pressure bend, P = 10.0 kgf/cm², angle 90°**, price per piece
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 76 | ₽18,050.00 |
-| 89 | ₽18,800.00 |
-| 102 | ₽20,900.00 |
-| 108 | ₽21,250.00 |
-| 114 | ₽21,600.00 |
-| 125 | ₽22,300.00 |
-| 133 | ₽22,800.00 |
-| 152 | ₽23,950.00 |
-| 159 | ₽24,400.00 |
-| 200 | ₽29,350.00 |
-| 219 | ₽35,510.00 |
-| 250 | ₽42,600.00 |
-| 273 | ₽44,050.00 |
-| 300 | ₽45,950.00 |
-| 325 | ₽47,550.00 |
-| 350 | ₽60,900.00 |
-| 377 | ₽63,100.00 |
-| 402 | ₽78,700.00 |
-| 426 | ₽84,950.00 |
-| 450 | ₽96,550.00 |
-| 500 | ₽170,650.00 |
-| 530 | ₽175,200.00 |
-| 610 | ₽216,100.00 |
-| 630 | ₽220,300.00 |
-| 720 | ₽303,850.00 |
+| DN 76 | 18,050 ₽ |
+| DN 89 | 18,800 ₽ |
+| DN 102 | 20,900 ₽ |
+| DN 108 | 21,250 ₽ |
+| DN 114 | 21,600 ₽ |
+| DN 125 | 22,300 ₽ |
+| DN 133 | 22,800 ₽ |
+| DN 152 | 23,950 ₽ |
+| DN 159 | 24,400 ₽ |
+| DN 200 | 29,350 ₽ |
+| DN 219 | 35,510 ₽ |
+| DN 250 | 42,600 ₽ |
+| DN 273 | 44,050 ₽ |
+| DN 300 | 45,950 ₽ |
+| DN 325 | 47,550 ₽ |
+| DN 350 | 60,900 ₽ |
+| DN 377 | 63,100 ₽ |
+| DN 402 | 78,700 ₽ |
+| DN 426 | 84,950 ₽ |
+| DN 450 | 96,550 ₽ |
+| DN 500 | 170,650 ₽ |
+| DN 530 | 175,200 ₽ |
+| DN 610 | 216,100 ₽ |
+| DN 630 | 220,300 ₽ |
+| DN 720 | 303,850 ₽ |
 
 ### Lightweight lay-flat hoses (TPF)
 
 TPF flanged lay-flat hose, P = 5.0 kgf/cm², price per section
 
-| Inner diameter, mm | Price, RUB (incl. VAT) |
+| DN, mm | Price, RUB (incl. VAT) |
 | --- | --- |
-| 89 | ₽28,650.00 |
-| 102 | ₽31,950.00 |
-| 108 | ₽33,150.00 |
-| 114 | ₽34,350.00 |
-| 125 | ₽36,550.00 |
-| 133 | ₽38,150.00 |
-| 152 | ₽41,950.00 |
-| 159 | ₽43,350.00 |
-| 200 | ₽54,150.00 |
-| 219 | ₽60,050.00 |
-| 250 | ₽68,300.00 |
-| 273 | ₽73,000.00 |
-| 300 | ₽78,850.00 |
-| 325 | ₽83,950.00 |
-| 350 | ₽101,150.00 |
-| 377 | ₽107,300.00 |
-| 402 | ₽123,800.00 |
-| 426 | ₽129,300.00 |
-| 450 | ₽154,150.00 |
-| 500 | ₽182,750.00 |
-| 530 | ₽190,200.00 |
-| 610 | ₽278,500.00 |
-| 630 | ₽285,600.00 |
+| DN 89 | 28,650 ₽ |
+| DN 102 | 31,950 ₽ |
+| DN 108 | 33,150 ₽ |
+| DN 114 | 34,350 ₽ |
+| DN 125 | 36,550 ₽ |
+| DN 133 | 38,150 ₽ |
+| DN 152 | 41,950 ₽ |
+| DN 159 | 43,350 ₽ |
+| DN 200 | 54,150 ₽ |
+| DN 219 | 60,050 ₽ |
+| DN 250 | 68,300 ₽ |
+| DN 273 | 73,000 ₽ |
+| DN 300 | 78,850 ₽ |
+| DN 325 | 83,950 ₽ |
+| DN 350 | 101,150 ₽ |
+| DN 377 | 107,300 ₽ |
+| DN 402 | 123,800 ₽ |
+| DN 426 | 129,300 ₽ |
+| DN 450 | 154,150 ₽ |
+| DN 500 | 182,750 ₽ |
+| DN 530 | 190,200 ₽ |
+| DN 610 | 278,500 ₽ |
+| DN 630 | 285,600 ₽ |
 
 **Notes:**
 
@@ -943,7 +943,13 @@ For the rapid separation of the floating pipes of the TNFP into separate parts, 
 ## Patents and diplomas
 
 URL: https://rassvet-k.ru/en/certificates/. Documents: 7 (scans).
-Patent numbers mentioned on the site: № 2007131, № 2291931, № 2355849, № 2358178.
+- Russian patent for invention No. 2459130 — Flexible pipeline with rotating flanges
+- Russian patent for invention No. 2376141 — Method of manufacturing rubber-fabric pressure hoses
+- Russian patent for invention No. 2374385 — Protective hydraulic structure
+- Russian patent for invention No. 2358178 — Floating pressure pipe with pneumatic floats and method of its manufacture
+- Russian patent for invention No. 2355849 — Floating slurry pipeline of a suction dredger
+- Russian patent for invention No. 2291931 — Protective hydraulic structure
+- Rospatent diploma “100 best inventions of Russia” for the floating pressure pipe with pneumatic floats (patent No. 2358178)
 
 ## Contacts
 
