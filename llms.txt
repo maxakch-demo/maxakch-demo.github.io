@@ -39,7 +39,7 @@
 
 - [Главная](https://rassvet-k.ru/): о компании, направления работы
 - [Патенты и дипломы](https://rassvet-k.ru/certificates/): 6 патентов РФ на изобретения и диплом «100 лучших изобретений России»
-- [Новости](https://rassvet-k.ru/news/): отгрузки и проекты (8 сообщений)
+- [Опыт поставок](https://rassvet-k.ru/news/): отгрузки и проекты — 8 кейсов (изделия, диаметры, длины секций, назначение)
 - [Контакты](https://rassvet-k.ru/contacts/): 305004, г. Курск, ул. Народная, 7а; тел. +7 (4712) 73-47-73, +7 (4712) 73-47-72, +7 (4712) 73-47-71, +7 (910) 740-69-64; rassvet-k@yandex.ru
 
 ## English
@@ -59,10 +59,11 @@
 - [Tracks for Buran snowmobiles](https://rassvet-k.ru/en/production/39.html): Reliable tracks for Buran snowmobiles.
 - [Price list](https://rassvet-k.ru/en/prices/): same prices as the Russian site, RUB incl. VAT, as of 01.03.2025
 - [Articles](https://rassvet-k.ru/en/articles/): technical articles (English translations)
+- [Supply track record](https://rassvet-k.ru/en/news/): shipments and projects (8 cases)
 - [Contacts](https://rassvet-k.ru/en/contacts/): 7a Narodnaya St., Kursk 305004, Russia; +7 (4712) 73-47-73; rassvet-k@yandex.ru
 - [Full text (EN)](https://rassvet-k.ru/en/llms-full.txt)
 
 ## Optional
 
-- [Новости (список)](https://rassvet-k.ru/news/)
+- [Опыт поставок (список)](https://rassvet-k.ru/news/)
 - [Карта сайта (XML)](https://rassvet-k.ru/sitemap.xml)
