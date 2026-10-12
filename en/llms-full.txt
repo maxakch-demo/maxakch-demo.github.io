@@ -1,6 +1,6 @@
 # Rassvet-K LLC — full text version of the website
 
-> Source: https://rassvet-k.ru/en.html. Generated automatically from the same data as the website pages. Prices from the price list as of 01.03.2025, RUB incl. VAT.
+> Source: https://rassvet-k.ru/en.html. Generated automatically from the same data as the website pages. <!--price:llmsf-src:en-->Prices from the price list as of 01.03.2025, RUB incl. VAT.<!--/price-->
 
 ## About the company
 
@@ -34,7 +34,7 @@ Group: Flexible rubber-fabric hoses
 - Material: wear-resistant rubber, high-strength synthetic fabric layers
 - Connection: flanged
 - Service life: 5 to 8 times longer abrasive-wear life than steel pipes
-- Price: from 41,700 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNF)
+<!--price:llmsf-price:TNF:en-->- Price: from 41,700 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNF)<!--/price-->
 
 Discharge Rubber Hose (TFP) are made of wear-resistant rubber and high-strength fabric layers of force, can be manufactured up to 10 meters long with flanged connections. The production of rubber pipes of different lengths makes it easy to use them in existing piping systems with minimal installation costs. The rubber pipeline consists of several sections of rubber-fabric (rubber) pipes and does not require specially trained personnel and a special tool. The operation of rubber pipelines in the open air or in a humid environment does not require additional measures to protect them from corrosion. Rubber pipes consist of an internal protective coating - rubbers, resistant to hydroabrasive wear, and strength layers of high-strength synthetic fabrics and protective coating, so these pipes are more correctly called **rubber-fabric.**
 
@@ -80,7 +80,7 @@ Group: Flexible rubber-fabric hoses
 
 **Key facts:**
 
-- DN in price list: 89 to 630 mm
+<!--price:llmsf-dia:TNFP:en-->- DN in price list: 89 to 630 mm<!--/price-->
 - Section length: up to 10 m
 - Working pressure: up to 2.0 MPa
 - Operating temperature: −25 to +50 °C
@@ -89,7 +89,7 @@ Group: Flexible rubber-fabric hoses
 - Design: rubber-fabric pipe with floats, rotating or fixed flanges
 - Warranty: 3 years storage and operation, including 2 years of operation
 - Service life: 5 to 8 times longer abrasive-wear life than steel pipes
-- Price: from 62,350 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNFP)
+<!--price:llmsf-price:TNFP:en-->- Price: from 62,350 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNFP)<!--/price-->
 
 #### Floating pipeline - brief description
 
@@ -132,7 +132,7 @@ Group: Flexible rubber-fabric hoses
 - Vacuum: up to 0.08 MPa
 - Operating temperature: −35 to +50 °C
 - Design: wire spiral in all hoses, spacer rings from Ø 200 mm
-- Price: from 35,600 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNVF)
+<!--price:llmsf-price:TNVF:en-->- Price: from 35,600 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TNVF)<!--/price-->
 
 #### Suction rubber hose
 
@@ -179,7 +179,7 @@ Group: Flexible rubber-fabric hoses
 - Weight: from 4.5 kg per metre (Ø 450 mm, working pressure 0.4 MPa)
 - Transport: wound on a drum, by any transport including aviation
 - Application: operational slurry line for shore dumps, temporary water conduits, earth dams
-- Price: from 28,650 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TPF)
+<!--price:llmsf-price:TPF:en-->- Price: from 28,650 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group TPF)<!--/price-->
 
 Flexible long-dimensioned flat-drained pipeline (pulp conduit) is manufactured from 150 to 1200 mm in diameter. It is characterized by a low mass (one meter of a flat-rolled slurry pipeline with a diameter of 450 mm designed for a working pressure of 0.4 mPa can weigh from 4.5 kg). Small mass and flatness of the slurry pipeline makes it possible to transport them, wound on a drum, by any means of transport, including aviation. Ploskorvorachivaemy pipeline is recommended to be used as an operational slurry line for hydroscheme on shore dumps, for construction of temporary water conduits and earth dams by means of hydromechanization, as primary depositions of cards for deposition. (f.1, f.2).
 
@@ -198,7 +198,7 @@ Group: Abrasion-resistant pipeline fittings
 - Operating temperature: −35 to +70 °C
 - Flanges: to GOST 12819-80, 12820-80, 12822-80 or as agreed with the customer
 - Material: wear-resistant rubber and high-strength fabric layers
-- Price: from 21,450 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group KOE)
+<!--price:llmsf-price:KOE:en-->- Price: from 21,450 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group KOE)<!--/price-->
 
 #### Rubber expansion joint
 
@@ -245,7 +245,7 @@ Group: Abrasion-resistant pipeline fittings
 - Working pressure: 1 MPa
 - Operating temperature: −35 to +50 °C
 - Design: local reinforcement in wear zones; steel spacer rings for vacuum service
-- Price: from 18,050 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group OTV)
+<!--price:llmsf-price:OTV:en-->- Price: from 18,050 ₽ incl. VAT (price list as of 01.03.2025; see Price list, group OTV)<!--/price-->
 
 #### Pre-shaped rubber bends
 
@@ -402,7 +402,7 @@ We produce reliable caterpillars for Buran snowmobiles.
 
 ## Price list
 
-Prices as of 01.03.2025. Prices are in Russian rubles, VAT included. DN — inner diameter, mm. URL: https://rassvet-k.ru/en/prices/
+<!--price:llmsf-prices:en-->Prices as of 01.03.2025. Prices are in Russian rubles, VAT included. DN — inner diameter, mm. URL: https://rassvet-k.ru/en/prices/
 
 ### Flanged elastic discharge hose (TNF)
 
@@ -599,7 +599,7 @@ TPF flanged lay-flat hose, P = 5.0 kgf/cm², price per section
 - ***** Hoses and spools can be made in standard, frost-resistant, oil- and petrol-resistant and other versions, and in other diameters, pressures and applications
 - Flanges and fasteners are included with each section
 - Please contact us by phone or e-mail for prices of rubber tees and slurry dividers
-- Prices on this website are for information only and may vary up or down depending on order size, delivery time and product version. Discounts are available.
+- Prices on this website are for information only and may vary up or down depending on order size, delivery time and product version. Discounts are available.<!--/price-->
 
 ## Articles
 

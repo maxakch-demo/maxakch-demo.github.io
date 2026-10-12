@@ -2,7 +2,7 @@
 
 > Российский производитель (Курск, с 1995 г.) гибких резинотканевых напорных, напорно-всасывающих, плавучих и плоскосворачиваемых трубопроводов, резиновых компенсаторов, отводов, тройников, переходов, пульподелителей и эластичных водоналивных дамб для гидромеханизации, земснарядов и горно-обогатительных комбинатов.
 
-Основной язык сайта — русский; есть английская версия (раздел English ниже). Цены указаны в рублях с НДС по прайс-листу на 01.03.2025. Продукция изготавливается в том числе по чертежам заказчика; для заказа и уточнения цены — телефон +7 (4712) 73-47-73 или e-mail rassvet-k@yandex.ru. Формы заявки на сайте нет.
+Основной язык сайта — русский; есть английская версия (раздел English ниже). <!--price:llms-intro-->Цены указаны в рублях с НДС по прайс-листу на 01.03.2025.<!--/price--> Продукция изготавливается в том числе по чертежам заказчика; для заказа и уточнения цены — телефон +7 (4712) 73-47-73 или e-mail rassvet-k@yandex.ru. Формы заявки на сайте нет.
 
 Полная текстовая версия сайта: [llms-full.txt](https://rassvet-k.ru/llms-full.txt) (RU), [en/llms-full.txt](https://rassvet-k.ru/en/llms-full.txt) (EN).
 
@@ -22,7 +22,7 @@
 
 ## Цены
 
-- [Прайс-лист](https://rassvet-k.ru/prices/): цены по Ду (внутренний диаметр, мм) для 6 групп изделий (Трубопровод напорный фланцевый эластичный, Трубопровод напорный фланцевый плавающий, Трубопровод напорно-всасывающий фланцевый, Эластичные компенсаторы, Эластичные отводы 90 град. фланцевые, Плоскосворачиваемые легкие трубопроводы), руб. с НДС, на 01.03.2025
+<!--price:llms-pl-->- [Прайс-лист](https://rassvet-k.ru/prices/): цены по Ду (внутренний диаметр, мм) для 6 групп изделий (Трубопровод напорный фланцевый эластичный, Трубопровод напорный фланцевый плавающий, Трубопровод напорно-всасывающий фланцевый, Эластичные компенсаторы, Эластичные отводы 90 град. фланцевые, Плоскосворачиваемые легкие трубопроводы), руб. с НДС, на 01.03.2025<!--/price-->
 
 ## Статьи (технические материалы)
 
@@ -57,7 +57,7 @@
 - [Water-filled flexible dams](https://rassvet-k.ru/en/production/6.html): Rapidly deployable flexible dams for flood protection.
 - [Tracks for snowmobiles](https://rassvet-k.ru/en/production/7.html): Rubber tracks for snowmobiles.
 - [Tracks for Buran snowmobiles](https://rassvet-k.ru/en/production/39.html): Reliable tracks for Buran snowmobiles.
-- [Price list](https://rassvet-k.ru/en/prices/): same prices as the Russian site, RUB incl. VAT, as of 01.03.2025
+<!--price:llms-pl-en-->- [Price list](https://rassvet-k.ru/en/prices/): same prices as the Russian site, RUB incl. VAT, as of 01.03.2025<!--/price-->
 - [Articles](https://rassvet-k.ru/en/articles/): technical articles (English translations)
 - [Supply track record](https://rassvet-k.ru/en/news/): shipments and projects (8 cases)
 - [Contacts](https://rassvet-k.ru/en/contacts/): 7a Narodnaya St., Kursk 305004, Russia; +7 (4712) 73-47-73; rassvet-k@yandex.ru
