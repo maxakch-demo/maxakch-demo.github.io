@@ -17,7 +17,6 @@
 - [Резинотканевые переходы фланцевые](https://rassvet-k.ru/production/15.html): Конусные эластичные переходники между трубопроводами разных диаметров.
 - [Резинотканевые тройники](https://rassvet-k.ru/production/14.html): Тройники и Y-образные соединения из износостойкой резины.
 - [Пульподелители и распределители потока](https://rassvet-k.ru/production/19.html): Абразивоустойчивые распределители потока гидросмеси.
-- [Эластичные оболочки (водоналивные дамбы)](https://rassvet-k.ru/production/6.html): Быстровозводимые гибкие дамбы для защиты от паводков и ЧС.
 - [Каталог продукции](https://rassvet-k.ru/production/): все группы — гибкие резинотканевые трубопроводы; абразивостойкие фасонные части трубопроводов; защитные гидротехнические сооружения
 
 ## Цены
@@ -31,6 +30,7 @@
 - [Эластичные грунтоводы](https://rassvet-k.ru/articles/6.html): Эластичные плавучие грунтопроводы предназначены для гидротранспортирования грунта при проведении дноуглубительных работ, подводной разработке траншей, гидронамыве промышленных площадок и т.д.
 - [Эластичные отводы](https://rassvet-k.ru/articles/8.html): Производство эластичных резинотканевых отводов разных диамтеров.
 - [Компенсаторы](https://rassvet-k.ru/articles/7.html): Гибкие соединения трубопроводов - компенсаторы изготавливаются диаметром до 900 мм и длиной до 1000 мм.
+- [Эластичные оболочки](https://rassvet-k.ru/production/6.html): Эластичные оболочки из резиноткани применяются для организации дамб, при проведении работ по благоустройству на водоемах, при организации хвостохранилищ.
 - [Гибкие длинномерные плоскосворачиваемые трубопроводы](https://rassvet-k.ru/articles/3.html): Производство гибких длинномерных плоскосворачиваемых трубопроводов.
 - [Трубопроводы напорно-всасывающие](https://rassvet-k.ru/articles/2.html): Мы занимаемся выпуском эластичных аброзивоустойчивых трубопроводов более 10 лет.
 - [Эластичные трубопроводы ТНФ и ТНФП](https://rassvet-k.ru/articles/1.html): Устройство абразивоустойчивого трубопровода достаточно сложно и описывается не только его составными элементами, но и их взаимным расположением.
@@ -54,7 +54,6 @@
 - [Rubber flanged reducers](https://rassvet-k.ru/en/production/15.html): Elastic cone reducers between pipelines of different diameters.
 - [Rubber tees (T & Y)](https://rassvet-k.ru/en/production/14.html): T- and Y-connectors made of wear-resistant rubber.
 - [Flow distributors and slurry dividers](https://rassvet-k.ru/en/production/19.html): Abrasion-resistant slurry flow distributors.
-- [Water-filled flexible dams](https://rassvet-k.ru/en/production/6.html): Rapidly deployable flexible dams for flood protection.
 - [Tracks for snowmobiles](https://rassvet-k.ru/en/production/7.html): Rubber tracks for snowmobiles.
 - [Tracks for Buran snowmobiles](https://rassvet-k.ru/en/production/39.html): Reliable tracks for Buran snowmobiles.
 <!--price:llms-pl-en-->- [Price list](https://rassvet-k.ru/en/prices/): same prices as the Russian site, RUB incl. VAT, as of 01.03.2025<!--/price-->
